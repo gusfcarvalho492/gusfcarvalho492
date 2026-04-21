@@ -1,16 +1,33 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F70000&width=435&lines=%F0%9F%91%8B+Hey%2C+I'm+Gus)](https://git.io/typing-svg)
 
-<!--
-**gusfcarvalho492/gusfcarvalho492** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Front-end developer in progress
+🚀 Currently learning JavaScript & React
+🎯 Looking for my first dev opportunity
 
-Here are some ideas to get you started:
+## 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍 Based in Brazil  
+- 📦 Currently working in logistics  
+- 💻 Studying Software Development (ADS)  
+- 🚀 Focused on becoming a Front-end Developer  
+- ⚡ I like building real projects and learning by doing  
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+
+## 📌 Projects
+
+### 🔐 Password Validator
+A system that analyzes password strength using JavaScript.
+
+### 🛒 SENAI E-commerce
+A front-end project simulating an online store interface.
+
+## 📫 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/gustavo-ferreira-de-carvalho-384b23293/
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gusfcarvalho492&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusfcarvalho492&layout=compact&theme=tokyonight)
